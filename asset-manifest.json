@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_for_dota/static/css/main.ab5a59f5.css",
+    "main.js": "/test_for_dota/static/js/main.d3d25c81.js",
+    "index.html": "/test_for_dota/index.html",
+    "main.ab5a59f5.css.map": "/test_for_dota/static/css/main.ab5a59f5.css.map",
+    "main.d3d25c81.js.map": "/test_for_dota/static/js/main.d3d25c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5a59f5.css",
+    "static/js/main.d3d25c81.js"
+  ]
+}
